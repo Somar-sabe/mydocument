@@ -366,7 +366,7 @@ h6,
 .h6 {
   font-size: 20px;
   line-height: 1.5em;
-  color: var(--accent-color);
+  color: #e04e39;
 }
 
 p {
@@ -2095,7 +2095,7 @@ a.luminix-header-info img {
   cursor: pointer;
   z-index: 1;
   position: relative;
-  color: var(--accent-color);
+  color: #e04e39;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2163,7 +2163,7 @@ a.luminix-header-info img {
   transition: all 0.4s;
 }
 .luminix-header-search-close:hover i {
-  color: var(--accent-color);
+  color: #e04e39;
 }
 
 .search-overlay.open {
@@ -2566,7 +2566,7 @@ a.white-color {
 }
 
 .progress-wrap svg.progress-circle path {
-  stroke: var(--accent-color); /* --- Lijn progres kleur --- */
+  stroke: #e04e39; /* --- Lijn progres kleur --- */
   stroke-width: 4;
   box-sizing: border-box;
   -webkit-transition: all 200ms linear;
@@ -3268,8 +3268,8 @@ a.white-color {
   margin-bottom: 0;
 }
 .luminix-list-icon-wraper:hover .luminix-list-icon-btn path {
-  fill: var(--accent-color);
-  stroke: var(--accent-color);
+  fill: #e04e39;
+  stroke: #e04e39;
 }
 .luminix-list-icon-wrap {
   display: flex;
@@ -3429,7 +3429,7 @@ a.white-color {
   transform: scaleX(0);
   transform-origin: left;
   border-radius: 30px;
-  border: 1px solid var(--accent-color);
+  border: 1px solid #e04e39;
   animation: animate 1s cubic-bezier(1, 0, 0.5, 1) forwards;
   margin-bottom: 20px;
 }
@@ -3442,7 +3442,7 @@ a.white-color {
   position: absolute;
   border-radius: 30px;
   transform-origin: left;
-  background: var(--accent-color);
+  background: #e04e39;
   animation: animate 1s 1s cubic-bezier(1, 0, 0.5, 1) forwards;
 }
 .luminix-skill-bar.bar2 {
@@ -3490,7 +3490,7 @@ a.white-color {
   transform: scaleX(0);
   transform-origin: left;
   border-radius: 30px;
-  border: 1px solid var(--accent-color);
+  border: 1px solid #e04e39;
   animation: animate 1s cubic-bezier(1, 0, 0.5, 1) forwards;
   margin-bottom: 20px;
 }
@@ -3894,10 +3894,10 @@ a.white-color {
   width: 23px;
   height: 23px;
   border-radius: 100px;
-  border: 1px solid var(--accent-color);
+  border: 1px solid #e04e39;
 }
 .luminix-testimonial-slider .slick-dots li.slick-active button {
-  background-color: var(--accent-color);
+  background-color: #e04e39;
 }
 
 .luminix-counter-wrap {
@@ -3965,7 +3965,7 @@ a.white-color {
   left: 0;
   width: 100%;
   height: 16px;
-  background-color: var(--accent-color);
+  background-color: #e04e39;
 }
 @media (max-width: 767px) {
   .luminix-counter-data::before {
@@ -4327,9 +4327,9 @@ a.white-color {
   margin-bottom: 0;
 }
 .luminix-portfolio-menu ul li.active {
-  background: var(--accent-color);
+  background: #e04e39;
   color: var(--white-color);
-  border: 1px solid var(--accent-color);
+  border: 1px solid #e04e39;
 }
 
 .luminix-faq-item {
@@ -4505,7 +4505,7 @@ img.plasicon {
 }
 .luminix-team-wrap:hover .luminix-team-content {
   height: 150px;
-  background-color: var(--accent-color);
+  background-color: #e04e39;
 }
 .luminix-team-wrap:hover .luminix-team-content h5, .luminix-team-wrap:hover .luminix-team-content p {
   color: var(--white-color);
@@ -4593,7 +4593,7 @@ img.plasicon {
 }
 .luminix-team-d-content h5 {
   margin-bottom: 24px;
-  color: var(--accent-color);
+  color: #e04e39;
 }
 .luminix-team-d-content p {
   font-size: 21px;
@@ -4681,10 +4681,10 @@ img.plasicon {
   width: 23px;
   height: 23px;
   border-radius: 100px;
-  border: 1px solid var(--accent-color);
+  border: 1px solid #e04e39;
 }
 .luminix-team-slider .slick-dots li.slick-active button {
-  background-color: var(--accent-color);
+  background-color: #e04e39;
 }
 
 .luminix-social-wrap ul li {
@@ -4708,7 +4708,7 @@ img.plasicon {
   background-color: var(--white-bg);
 }
 .luminix-social-wrap ul li a:hover path {
-  fill: var(--accent-color);
+  fill: #e04e39;
 }
 .luminix-social-wrap.wrap2 ul li {
   margin-right: 10px;
@@ -4774,7 +4774,7 @@ img.plasicon {
   border: 1px solid var(--white-color);
 }
 .luminix-team-social ul li a:hover path {
-  fill: var(--accent-color) !important;
+  fill: #e04e39 !important;
 }
 
 .luminix-blog-wrap {
@@ -4842,7 +4842,7 @@ img.plasicon {
   display: inline-block;
 }
 .luminix-blog-meta a {
-  color: var(--accent-color);
+  color: #e04e39;
   margin-right: 15px;
   font-size: 16px;
   line-height: 24px;
@@ -4868,7 +4868,7 @@ img.plasicon {
   transition: all 0.4s;
 }
 .luminix-blog-btn a:hover {
-  color: var(--accent-color);
+  color: #e04e39;
 }
 .luminix-blog-btn a:hover path {
   stroke: #e04e39;
@@ -4883,11 +4883,11 @@ img.plasicon {
   margin-left: 5px;
 }
 .luminix-blog-btn.btn2 a:hover {
-  color: var(--accent-color);
+  color: #e04e39;
 }
 .luminix-blog-btn.btn2 a:hover path {
-  stroke: var(--accent-color);
-  fill: var(--accent-color);
+  stroke: #e04e39;
+  fill: #e04e39;
 }
 .luminix-blog-wrap2 {
   border-radius: 10px;
@@ -5105,7 +5105,7 @@ img.plasicon {
   font-weight: 500;
 }
 .luminix-blog-categorie ul li a:hover {
-  color: var(--accent-color);
+  color: #e04e39;
 }
 .luminix-blog-tags {
   padding-top: 5px;
@@ -5219,7 +5219,7 @@ img.plasicon {
   padding-top: 10px;
 }
 .luminix-blog-d-comment-wrap1 .reply-btn a:hover {
-  color: var(--accent-color);
+  color: #e04e39;
 }
 .luminix-blog-d-comment-wrap {
   display: flex;
@@ -5236,7 +5236,7 @@ img.plasicon {
   padding-top: 10px;
 }
 .luminix-blog-d-comment-wrap .reply-btn a:hover {
-  color: var(--accent-color);
+  color: #e04e39;
 }
 .luminix-blog-d-comment-thumb {
   margin-right: 20px;
@@ -5328,7 +5328,7 @@ img.plasicon {
   color: #0A102F;
 }
 .luminix-search-box input:focus {
-  border: 1px solid var(--accent-color) !important;
+  border: 1px solid #e04e39 !important;
 }
 
 button#luminix-search-btn {
@@ -5391,7 +5391,7 @@ button#luminix-search-btn i {
 .luminix-recent-post-data span {
   font-size: 14px;
   line-height: 20px;
-  color: var(--accent-color);
+  color: #e04e39;
 }
 .luminix-recent-post-data span img {
   margin-top: -5px;
@@ -5412,7 +5412,7 @@ blockquote p {
   font-weight: 400;
   line-height: 34px;
   letter-spacing: -0.01em;
-  color: var(--accent-color) !important;
+  color: #e04e39 !important;
 }
 blockquote img {
   z-index: 1;
@@ -5491,10 +5491,10 @@ blockquote img {
   margin-top: -5px;
 }
 .luminix-service-btn a:hover {
-  color: var(--accent-color);
+  color: #e04e39;
 }
 .luminix-service-btn a:hover svg path {
-  stroke: var(--accent-color);
+  stroke: #e04e39;
 }
 .luminix-service-d-wrap {
   padding-right: 30px;
@@ -5557,10 +5557,10 @@ blockquote img {
   transition: all 0.4s;
 }
 .luminix-service-d-menu ul li a:hover {
-  color: var(--accent-color);
+  color: #e04e39;
 }
 .luminix-service-d-menu ul li a:hover path {
-  stroke: var(--accent-color);
+  stroke: #e04e39;
 }
 
 .ml-20 {
@@ -5964,7 +5964,7 @@ blockquote img {
 .luminix-about-card {
   padding: 27px 30px;
   border-radius: 10px;
-  background-color: var(--accent-color);
+  background-color: #e04e39;
   position: absolute;
   bottom: -40px;
   right: 100px;
@@ -6063,7 +6063,7 @@ blockquote img {
 }
 .luminix-about-card2 {
   display: table;
-  background: var(--accent-color);
+  background: #e04e39;
   position: absolute;
   top: 0;
   left: 56px;
@@ -6111,7 +6111,7 @@ blockquote img {
   position: absolute;
   bottom: 24px;
   left: 24px;
-  background-color: var(--accent-color);
+  background-color: #e04e39;
   overflow: hidden;
   transform: translatey(0);
   -webkit-animation: updown 3s ease-in-out infinite;
@@ -6218,7 +6218,7 @@ blockquote img {
   right: -60px;
   border-radius: 8px;
   padding: 20px 40px 20px 24px;
-  background-color: var(--accent-color);
+  background-color: #e04e39;
   width: 278px;
   overflow: hidden;
   transform: translatey(0);
@@ -6420,7 +6420,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
   color: #8A8C9A;
 }
 .luminix-header-search-box input:focus {
-  border-bottom: 1px solid var(--accent-color) !important;
+  border-bottom: 1px solid #e04e39 !important;
 }
 .luminix-header-search-box p {
   color: var(--heading-color);
@@ -6433,7 +6433,7 @@ button#header-search {
 }
 button#header-search i {
   font-size: 30px;
-  color: var(--accent-color);
+  color: #e04e39;
 }
 
 [type=search]::-webkit-search-cancel-button,
@@ -7108,7 +7108,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
   height: 200%;
   top: 110%;
   left: 50%;
-  background: var(--accent-color);
+  background: #e04e39;
   -webkit-transform: translateX(-50%);
   -moz-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
@@ -7138,7 +7138,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
 .luminix-default-btn.luminix-header-btn:hover,
 .luminix-subcribe-btn.luminix-header-btn:hover,
 #luminix-submit-btn.luminix-header-btn:hover {
-  border: 2px solid var(--accent-color);
+  border: 2px solid #e04e39;
 }
 .luminix-default-btn.luminix-header-btn:hover path,
 .luminix-subcribe-btn.luminix-header-btn:hover path,
@@ -7188,7 +7188,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
   height: 200%;
   top: 110%;
   left: 50%;
-  background: var(--accent-color);
+  background: #e04e39;
   -webkit-transform: translateX(-50%);
   -moz-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
@@ -7290,7 +7290,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
 .luminix-subcribe-btn.pricing-btn-v4:hover,
 #luminix-submit-btn.pricing-btn-v4:hover {
   color: var(--heading-color) !important;
-  background-color: var(--accent-color);
+  background-color: #e04e39;
 }
 .luminix-default-btn.pricing-btnv4:hover,
 .luminix-subcribe-btn.pricing-btnv4:hover,
@@ -7889,7 +7889,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
   height: 200%;
   top: 110%;
   left: 50%;
-  background: var(--accent-color);
+  background: #e04e39;
   -webkit-transform: translateX(-50%);
   -moz-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
@@ -8072,8 +8072,8 @@ textarea::placeholder { /* Most modern browsers support this now. */
 .luminix-pagination a:hover,
 .pagi-btn:hover {
   color: var(--white-color);
-  background-color: var(--accent-color);
-  border: 1px solid var(--accent-color);
+  background-color: #e04e39;
+  border: 1px solid #e04e39;
 }
 .luminix-pagination span:hover path,
 .luminix-pagination a:hover path,
@@ -8189,7 +8189,7 @@ a.current {
   font-weight: 500;
 }
 .luminix-mobile-menu ul li.luminix-active > a {
-  color: var(--accent-color);
+  color: #e04e39;
 }
 .luminix-mobile-menu ul li.luminix-active > a:before {
   transform: rotate(90deg);
@@ -8344,7 +8344,7 @@ a.luminix-default-btn.sm-size {
   width: 13px;
   height: 13px;
   border-radius: 50%;
-  background: var(--accent-color);
+  background: #e04e39;
   animation-timing-function: cubic-bezier(0, 1, 1, 0);
 }
 
