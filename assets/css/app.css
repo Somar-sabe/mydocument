@@ -1774,7 +1774,7 @@ img {
 }
 
 .bg-accent {
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 
 .white-bg1 {
@@ -2038,7 +2038,7 @@ header.luminix-header-section.luminix-header-two.sticky-menu {
   cursor: pointer;
   justify-content: center;
   align-items: center;
-  background: var(--accent-bg);
+  background: #e04e39;
   border-radius: 100px;
   margin-left: 20px;
 }
@@ -2112,7 +2112,7 @@ a.luminix-header-info img {
 .luminix-header-search.search-box {
   width: 40px;
   height: 40px;
-  background: var(--accent-bg);
+  background: #e04e39;
 }
 .luminix-header-search.search-box i {
   font-size: 20px;
@@ -2229,7 +2229,7 @@ a.luminix-header-info img {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 .luminix-sidemenu-close i {
   font-size: 30px;
@@ -2687,7 +2687,7 @@ a.white-color {
   left: 0;
   width: 55px;
   height: 4px;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 @media (max-width: 767px) {
   .luminix-footer-title::before {
@@ -3022,7 +3022,7 @@ a.white-color {
 .luminix-contact-us-info-wrap {
   gap: 24px;
   display: flex;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
   padding: 30px 0;
   justify-content: center;
   border-radius: 10px;
@@ -3503,7 +3503,7 @@ a.white-color {
   position: absolute;
   border-radius: 53px;
   transform-origin: left;
-  background: var(--accent-bg);
+  background: #e04e39;
   animation: animate 1s 1s cubic-bezier(1, 0, 0.5, 1) forwards;
 }
 .luminix-skill-bar2::after {
@@ -4168,7 +4168,7 @@ a.white-color {
   align-items: center;
   justify-content: center;
   border-radius: 5px !important;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 .luminix-p-btn svg {
   transition: all 0.4s;
@@ -4287,7 +4287,7 @@ a.white-color {
   margin-right: 5px;
 }
 .luminix-p-d-sidebar ul li a {
-  color: var(--accent-bg);
+  color: #e04e39;
 }
 .luminix-p-d-sidebar ul li a.link {
   position: relative;
@@ -4299,7 +4299,7 @@ a.white-color {
   right: 0;
   content: "";
   position: absolute;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 
 .luminix-portfolio-menu ul li {
@@ -4418,7 +4418,7 @@ img.plasicon {
 }
 .scroll-btn ul li a.active {
   color: var(--white-color) !important;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 .scroll-btn ul li a.active path {
   stroke: #fff;
@@ -4439,7 +4439,7 @@ img.plasicon {
   height: 60px;
   border: 1px solid transparent;
   transform: translateY(-50%) scale(0);
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
   color: var(--white-color);
   z-index: -1;
   transition: all 0.4s;
@@ -4723,8 +4723,8 @@ img.plasicon {
   height: 35px;
 }
 .luminix-social-wrap.wrap2 ul li a:hover {
-  background-color: var(--accent-bg);
-  border: 1px solid var(--accent-bg);
+  background-color: #e04e39;
+  border: 1px solid #e04e39;
 }
 .luminix-social-wrap.wrap2 ul li a path {
   fill: var(--white-color);
@@ -4738,7 +4738,7 @@ img.plasicon {
 }
 .luminix-social-wrap.blog-social ul li a:hover {
   border: 1px solid transparent;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 .luminix-social-wrap.blog-social ul li a:hover path {
   fill: var(--white-color);
@@ -4817,7 +4817,7 @@ img.plasicon {
 }
 .luminix-blog-frame a:hover {
   color: var(--white-color);
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 .luminix-blog-content {
   padding: 30px;
@@ -4871,8 +4871,8 @@ img.plasicon {
   color: var(--accent-color);
 }
 .luminix-blog-btn a:hover path {
-  stroke: var(--accent-bg);
-  fill: var(--accent-bg);
+  stroke: #e04e39;
+  fill: #e04e39;
 }
 .luminix-blog-btn.btn2 a {
   transition: all 0.4s;
@@ -5125,7 +5125,7 @@ img.plasicon {
 }
 .luminix-blog-tags ul li a:hover {
   color: var(--white-color);
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 .luminix-blog-tags.tags2 {
   display: flex;
@@ -5140,7 +5140,7 @@ img.plasicon {
   background-color: var(--light-color);
 }
 .luminix-blog-tags.tags2 ul li a:hover {
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 .luminix-blog-d-thumb {
   position: relative;
@@ -6681,7 +6681,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
 
 .luminix-cta-title {
   padding: 50px;
-  background: var(--accent-bg);
+  background: #e04e39;
   border-radius: 8px;
   margin-bottom: 100px;
 }
@@ -6933,7 +6933,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
   font-family: "Inter", sans-serif;
   user-select: none;
   -moz-user-select: none;
-  background: var(--accent-bg) none repeat scroll 0 0;
+  background: #e04e39 none repeat scroll 0 0;
   color: white;
   cursor: pointer;
   display: inline-flex;
@@ -7079,7 +7079,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
 .luminix-subcribe-btn.career-btn:hover,
 #luminix-submit-btn.career-btn:hover {
   color: var(--white-color) !important;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 .luminix-default-btn.career-btn:hover svg path,
 .luminix-subcribe-btn.career-btn:hover svg path,
@@ -7119,7 +7119,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
   -o-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-  border: 2px solid var(--accent-bg);
+  border: 2px solid #e04e39;
   z-index: -1;
 }
 .luminix-default-btn.luminix-header-btn:hover,
@@ -7159,7 +7159,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
   padding: 18px 40px;
   border-radius: 3px;
   color: var(--white-color) !important;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 @media (max-width: 767px) {
   .luminix-default-btn.luminix-header-btn2,
@@ -7225,7 +7225,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
 #luminix-submit-btn.luminix-hero-btn2 {
   border-radius: 3px !important;
   color: var(--white-color) !important;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
 }
 .luminix-default-btn.luminix-hero-btn3,
 .luminix-subcribe-btn.luminix-hero-btn3,
@@ -7722,7 +7722,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
 .subcription-btn2 {
   user-select: none;
   -moz-user-select: none;
-  background: var(--accent-bg) none repeat scroll 0 0;
+  background: #e04e39 none repeat scroll 0 0;
   color: white;
   cursor: pointer;
   display: inline-flex;
@@ -7782,12 +7782,12 @@ textarea::placeholder { /* Most modern browsers support this now. */
 }
 
 .default-btn2 {
-  border: 2px solid var(--accent-bg);
+  border: 2px solid #e04e39;
   border-radius: 6px;
   padding: 18px 52px;
   user-select: none;
   -moz-user-select: none;
-  background: var(--accent-bg) none repeat scroll 0 0;
+  background: #e04e39 none repeat scroll 0 0;
   color: white;
   cursor: pointer;
   display: inline-flex;
@@ -7904,7 +7904,7 @@ textarea::placeholder { /* Most modern browsers support this now. */
 }
 .default-btn3:hover {
   color: var(--white-color);
-  border: 2px solid var(--accent-bg) !important;
+  border: 2px solid #e04e39 !important;
 }
 .default-btn3:hover::before, .default-btn3:hover .luminix-default-btn:focus-visible::before {
   top: -40%;
@@ -8089,8 +8089,8 @@ textarea::placeholder { /* Most modern browsers support this now. */
 a.current {
   cursor: not-allowed;
   color: var(--white-color);
-  background-color: var(--accent-bg);
-  border: 1px solid var(--accent-bg);
+  background-color: #e04e39;
+  border: 1px solid #e04e39;
 }
 
 .luminix-menu-wrapper {
@@ -8266,7 +8266,7 @@ a.luminix-default-btn.sm-size {
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
   color: var(--white-color) !important;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
   z-index: 0;
   overflow: hidden;
   position: relative;
@@ -8289,7 +8289,7 @@ a.luminix-default-btn.sm-size {
 }
 .luminix-loading-dots--dot {
   animation: dot-keyframes 1.5s infinite ease-in-out;
-  background-color: var(--accent-bg);
+  background-color: #e04e39;
   border-radius: 10px;
   display: inline-block;
   height: 12px;
